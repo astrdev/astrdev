@@ -1,6 +1,6 @@
 # My profile
 
-Hello world! I'm astrdev, I'm 18 years old and I like photography, gaming and I live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, and I like programming and cybersecurity.  
+Hello world! I'm astrdev, I'm 19 years old and I like photography, gaming and I live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, and I like programming and cybersecurity.  
 I'm currently doing a 4-year apprenticeship in Computer Science to further my knowledge.
 
 ## My stats
@@ -9,7 +9,7 @@ I'm currently doing a 4-year apprenticeship in Computer Science to further my kn
 
 ![astrdev's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astrdev&theme=dark)
 
-### General stats
+### General GitHub stats
 
 ![astrdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrdev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=dark)
 
