@@ -30,7 +30,7 @@ I'm currently doing a 4-year apprenticeship in Computer Science to further my kn
 
 ### Learning
 
-[![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Rust](https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 ### Not practised for a while
 
