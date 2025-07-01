@@ -1,7 +1,13 @@
 # My profile
 
 Hello world! I'm astrdev, I'm 19 years old and I like photography, gaming and I live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, and I like programming and cybersecurity.  
-I'm currently doing a 4-year apprenticeship in Computer Science to further my knowledge.
+~~I'm currently doing a 4-year apprenticeship in Computer Science to further my knowledge.~~ Just got it! ^^
+
+## Education
+
+| Period | Title | School |
+|--------|-------|--------|
+| 2021 - 2025 | CFC en Informatique d'Exploitation et Infrastructure | École des Arches |
 
 ## My stats
 
