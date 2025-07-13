@@ -27,7 +27,7 @@ Hello world! I'm astrdev, I'm 19 years old and I like photography, gaming and I 
 
 ## Currently working on
 
-- [GitPy](https://github.com/astrdev/gitpy) (for Linux) (paused for learning rust instead)
+- [GitPy](https://github.com/astrdev/gitpy) (for Linux) (paused for learning Rust instead)
 - [mcsm](https://github.com/astrdev/mcsm) (for linux) (futur rust project)
 
 ## Known lnanguages
