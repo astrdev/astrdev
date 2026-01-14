@@ -1,7 +1,6 @@
 # My profile
 
-Hello world! I'm astrdev, I'm 19 years old and I like photography, gaming and I live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, and I like programming and cybersecurity.  
-~~I'm currently doing a 4-year apprenticeship in Computer Science to further my knowledge.~~ Just got it! ^^
+Hello world! I'm astrdev, I'm 20 years old and I like photography, gaming and I live in Switzerland. But what I'm most passionate about is the world of computing. I'm fascinated by systems management, and I like programming and cybersecurity.
 
 ## Education
 
@@ -13,17 +12,17 @@ Hello world! I'm astrdev, I'm 19 years old and I like photography, gaming and I 
 
 ### Most used languages on GitHub
 
-![astrdev's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astrdev&theme=dark)
+![astrdev's Github Top Languages](https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=astrdev&theme=dark)
 
 ### General GitHub stats
 
-![astrdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrdev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=dark)
+![astrdev's GitHub stats](https://github-readme-stats-six-seven.vercel.app/api?username=astrdev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&theme=dark)
 
 ### Wakatime coding time stats
 
 [![astrdev's all Wakatime](https://wakatime.com/badge/user/244c440e-6ae6-441a-b1f9-1edf189e3f74.svg?style=for-the-badge)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
 
-[![astrdev's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@astrdev&theme=dark&layout=compact&hide=AUTO_DETECTED)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
+[![astrdev's Wakatime stats](https://github-readme-stats-six-seven.vercel.app/api/wakatime?username=@astrdev&theme=dark&layout=compact&hide=AUTO_DETECTED)](https://wakatime.com/@244c440e-6ae6-441a-b1f9-1edf189e3f74)
 
 ## Currently working on
 
